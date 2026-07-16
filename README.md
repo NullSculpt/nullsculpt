@@ -53,6 +53,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NullSculpt/NullSculpt/output/github-contribution-grid-snake.svg" alt="katkı yılanı animasyonu" />
+</p>
 ---
 
 <p align="center"><i>This profile is always a work in progress — just like me 🚀</i></p>
